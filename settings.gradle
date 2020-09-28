@@ -1,0 +1,4 @@
+include ':lib'
+include ':paygen-ssh-android'
+include ':app'
+rootProject.name = "Payload Generator Sample"
